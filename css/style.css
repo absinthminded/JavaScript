@@ -1,1 +1,52 @@
-/*style for module2-solution*/
+*{
+  box-sizing: border-box;
+
+}
+
+h1{
+  text-align: center;
+  font-size: 40px;
+}
+
+
+.box {
+  position: relative;
+  background-color: grey;
+  width: 30%;
+  margin: 20px;
+  border: 2px solid black;
+  float:left;
+}
+
+.menu{
+  position: absolute;
+  top: -17px;
+  right: 0px;
+
+  border: 2px solid black;
+
+
+}
+
+.description{
+  padding: 10px;
+  padding-bottom: 0px;
+}
+
+#chicken{
+  text-align: center;
+  width: 30%;
+  background-color: pink;
+}
+
+#beef{
+  text-align: center;
+  width: 30%;
+  background-color: red;
+}
+
+#sushi{
+  text-align: center;
+  width: 30%;
+  background-color: yellow
+}
