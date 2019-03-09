@@ -1,0 +1,39 @@
+body{
+  color: black;
+  font-family: sans-serif;
+}
+
+h1{
+  margin-top: -5px;
+  color: black;
+  font-size: 32px;
+}
+#header-nav{
+  border: 1px solid black;
+  border-radius: 0;
+  background-color: grey;
+}
+#nav-list{
+  margin-top: 10px;
+}
+
+ul>li>a{
+  border-top: 1px solid black;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid black;
+
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -40px;
+}
+
+#menu-tile{
+  color: black;
+  border: 1px solid black;
+  height: 1000px;
+  background-color: grey;
+
+}
