@@ -34,6 +34,9 @@ ul>li>a{
   clear: both;
   margin-top: -40px;
 }
+.collapsed-border{
+  border-top: none;
+}
 
 #menu-tile{
   color: black;
