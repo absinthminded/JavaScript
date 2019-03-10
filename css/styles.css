@@ -19,10 +19,14 @@ h1{
 
 ul>li>a{
   border-top: 1px solid black;
+  color: black;
+  font-style: bold;
+  background-color: white;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
   border: 1px solid black;
+  background-color: grey;
 
 }
 .navbar-header button.navbar-toggle {
