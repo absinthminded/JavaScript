@@ -20,9 +20,9 @@ h1{
 
 ul>li>a{
   border-top: 1px solid black;
-  color: black;
-  font-style: bold;
   background-color: white;
+  height: 30px;
+
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
