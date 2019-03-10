@@ -14,7 +14,8 @@ h1{
   background-color: grey;
 }
 #nav-list{
-  margin-top: 10px;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 
 ul>li>a{
